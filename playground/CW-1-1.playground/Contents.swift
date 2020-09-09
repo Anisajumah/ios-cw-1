@@ -11,4 +11,5 @@ var friendheight = 1.65
 var friendage = 18
 var friendhobby1 = "drawing"
 var friendhobby2 = "cooking"
-var mutual = hobby1==friendhobby2
+var agedifferance = friendage - age
+  hobby1 == friendhobby2
